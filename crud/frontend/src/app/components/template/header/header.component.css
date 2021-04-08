@@ -6,7 +6,8 @@
 .header a{
     display: flex;
     align-items: center;
-    text-decoration: n;
+    text-decoration: none;
+    color: #FFF;
 }
 
 .header .logo {
