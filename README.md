@@ -18,9 +18,9 @@ O projeto consiste em criar uma plataforma de cadastro de produtos onde o usuár
 
 Execute `npm install` para instalar as dependências.
 
-Rode `npm start` na pasta backend (Porta 3001).
+Execute `npm start` na pasta backend (Porta 3001).
 
-Rode `ng serve --o` na pasta frontend (Porta 4200).
+Execute `ng serve --o` na pasta frontend (Porta 4200).
 
 ### Demonstração
 
